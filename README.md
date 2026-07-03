@@ -30,6 +30,8 @@ A full-stack **Society Desk** application built with **Next.js**, **TypeScript**
 * View maintenance analytics through a dashboard
 
 ---
+<img width="698" height="449" alt="image" src="https://github.com/user-attachments/assets/766b7d4e-66bb-43fe-8059-bc8f3ae7ef31" />
+
 
 # 📊 Dashboard
 
@@ -43,6 +45,8 @@ The Admin Dashboard provides:
 * Recent complaint activities
 
 ---
+<img width="671" height="447" alt="image" src="https://github.com/user-attachments/assets/ac361454-e37c-4fd8-86c1-5f71e116ae0e" />
+
 
 # ⚙️ Tech Stack
 
@@ -52,6 +56,7 @@ The Admin Dashboard provides:
 * React 19
 * TypeScript
 * Tailwind CSS
+<img width="703" height="461" alt="image" src="https://github.com/user-attachments/assets/2dced5c2-f74a-43c2-8845-a50bccc16d29" />
 
 ### Backend
 
@@ -72,6 +77,7 @@ The Admin Dashboard provides:
 * Nodemailer (Email Notifications)
 
 ---
+<img width="709" height="448" alt="image" src="https://github.com/user-attachments/assets/dfa712c9-277c-4071-82b4-aa6e531cd6a4" />
 
 # 🛠️ Installation
 
@@ -83,6 +89,7 @@ cd society-desk
 ```
 
 ### Install Dependencies
+<img width="695" height="443" alt="image" src="https://github.com/user-attachments/assets/66801abb-feee-4f23-b95f-a7cfaba2f013" />
 
 ```bash
 npm install
